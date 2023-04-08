@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600&display=swap');
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+h2 {
+    font-family: 'Work Sans', sans-serif;
+    color: #801C93;
+    font-size: 2.5em;
+    margin: 15px;
+    margin-top: 35px;
+}
+
+p {
+    font-family: 'Nunito', sans-serif;
+    font-size: 17px;
+    margin: 15px;
+    margin-right: 10em;
+}
+
+li {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    color: #000000;
+    height: 2em;
+    width: 3em;
+    font-family: 'Epilogue', sans-serif;
+    padding-top: 12px;
+    margin: 25px;
+}
+
+.final {
+    height: 15em;
+    width: 15em;
+    margin: 1em;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Work Sans', sans-serif;
+    color: #801C93;
+    font-size: 2.5em;
+    margin-left: 13em;
+    margin-top: -1em;
+    height: 0em;
+    width: 16em;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Work Sans', sans-serif;
+    color: #801C93;
+    font-size: 1.5em;
+    margin-left: 9em;
+    margin-top: 4em;
+    height: 0em;
+    width: 28em;
+}
+
+a:hover {
+    color: black;
+}
+

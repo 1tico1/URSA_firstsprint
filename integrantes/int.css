@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@700&display=swap');
+
+h2 {
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Work Sans', sans-serif;
+    color: #000000;
+    font-size: 1em;
+    margin: 15px;
+    margin-top: 2em;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: 2em;
+    margin: 15px;
+    margin-top: 2em;
+    background-color: #801C93;
+    color: #fff;
+}
+
+a {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    background-color: #801C93;
+    height: 2em;
+    width: 5em;
+    border-radius: 1em;
+    font-family: 'Epilogue', sans-serif;
+    padding-top: 12px;
+    margin: 25px;
+    color: #ffffff;
+}
+
+a:hover {
+    color: black;
+}
